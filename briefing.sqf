@@ -12,6 +12,8 @@ player createDiaryRecord ["changelog",
 [
 "0.9c",
 "
+<br/> [Changed] - Side mission delay reduced to 5 mins, timeout increased to 45 mins
+<br/> [Changed] - Main mission delay reduced to 10 mins, timeout increased to 1 hour
 <br/> [Changed] - Instant money pickup and drop
 <br/> [Changed] - Increased plane and heli spawning odds
 <br/> [Fixed] - FPS fix improvements
