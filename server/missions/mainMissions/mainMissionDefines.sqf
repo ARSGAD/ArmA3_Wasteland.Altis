@@ -8,8 +8,8 @@
 //Fail Mission Colour = #17FF41 - Light green
 //Sub Colour = #FFF - White
 
-#define mainMissionTimeout 1800
-#define mainMissionDelayTime 1200
+#define mainMissionTimeout (60*60)
+#define mainMissionDelayTime (10*60)
 
 #define missionRadiusTrigger 50
 #define mainMissionColor "#52bf90"
