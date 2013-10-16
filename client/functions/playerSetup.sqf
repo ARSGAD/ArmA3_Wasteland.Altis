@@ -79,7 +79,7 @@ switch (playerSide) do
 			};
 			default
 			{ 
-				_player addUniform "U_O_CombatUniform_ocamo";
+				_player addUniform "U_I_CombatUniform";
 				_player addVest "V_PlateCarrierIA2_dgtl";
 				_player addHeadgear "H_HelmetIA";
 			};
