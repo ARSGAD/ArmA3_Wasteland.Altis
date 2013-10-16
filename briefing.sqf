@@ -16,8 +16,10 @@ player createDiaryRecord ["changelog",
 <br/> [Changed] - Main mission delay reduced to 10 mins, timeout increased to 1 hour
 <br/> [Changed] - Instant money pickup and drop
 <br/> [Changed] - Increased plane and heli spawning odds
+<br/> [Changed] - Backpacks no longer deleted on death
 <br/> [Fixed] - FPS fix improvements
-<br/> [Fixed] - Vehicles disappearing when untowed or airdropped
+<br/> [Fixed] - Vehicles no longer randomly disappear when untowed or airdropped
+<br/> [Fixed] - Independent players now spawn with proper uniform
 "
 ]];
 
